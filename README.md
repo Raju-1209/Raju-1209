@@ -3,7 +3,7 @@
 ### More about me:
 - 🌱 I'm currently studying for the CDMP certification.
 - 📊 I love working with data and playing chess.
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1MHrXX4JUVLEZS1UcorujDy-bJv0FbkPk/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1C_KMJM44kE8jxZOieF5ITAj23nnr8zFa/view?usp=sharing)
 - 🌐 Check out my [Website](https://rajkumarportfoliowebsite.netlify.app/)
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/rajkumar-padmanabhan/)
 
