@@ -1,7 +1,5 @@
 ![Intro](https://github.com/Raju-1209/portfolio_website/blob/main/assests/img/welcome-github.png)
 
-# 👋 Rajkumar Padmanabhan
-
 ## 🚀 About Me
 - 📊 Passionate about Data Analytics, AI & Healthcare Analytics
 - ♟️ Love working with data and playing chess
