@@ -4,7 +4,7 @@
 - 📊 Passionate about Data Analytics, AI & Healthcare Analytics
 - ♟️ Love working with data and playing chess
 - 🌱 Certified in AI & ML
-- 📄 [Resume](https://drive.google.com/file/d/1_NQO3_aBvwcWbWz_JqIcwmmo5O86EjKr/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1xvR3DSyPZ0U5ucO8AoZhpuOOJxyPTwVK/view?usp=sharing)
 - 🌐 [Portfolio Website](https://rajkumarportfoliowebsite.netlify.app/)
 - 📱 [LinkedIn](https://www.linkedin.com/in/rajkumar-padmanabhan/)
 
